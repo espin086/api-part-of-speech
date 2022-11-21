@@ -1,5 +1,5 @@
 
-# Welcome to your CDK Python project!
+# Welcome to the Part of Speech API!
 
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`api_part_of_speech_stack`)
 which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
